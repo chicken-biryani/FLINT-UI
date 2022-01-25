@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i0.wp.com/mojaglobal.kinsta.cloud/wp-content/uploads/2021/03/Asset-66@4x.png" alt="FLINT UI logo" height ="auto" width="200" />
+<img src="https://moja.global/wp-content/uploads/2021/03/Asset-66@4x.png" alt="FLINT UI logo" height ="auto" width="200" />
 <br />
 <h1>FLINT UI</h1>
 <p>
@@ -48,6 +48,7 @@ This project provides an intuitive way for new to explore some preconfigured FLI
 - [Vue.js](https://vuejs.org/)
 - [Fontawesome](https://fontawesome.com/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Cypress](https://www.cypress.io/)
 - [Apexcharts](https://apexcharts.com/)
 - [Moment.js](https://momentjs.com/)
 - [Google Maps](https://developers.google.com/maps)
